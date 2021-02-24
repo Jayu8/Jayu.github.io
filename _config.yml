@@ -37,7 +37,8 @@ url: "https://www.jknarra.com"
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
 
-baseurl: "/Jayu.github.io" # the subpath of your site, e.g. "/blog".
+baseurl : ""
+#baseurl: "/Jayu.github.io" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
