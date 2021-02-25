@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Title",
-            "content": ". Printing hello world in python . print(&quot;hello world!&quot;) . hello world! .",
-            "url": "https://www.jknarra.com/2021/02/25/hello.html",
-            "relUrl": "/2021/02/25/hello.html",
+            "title": "Hello World",
+            "content": "Hello World! .",
+            "url": "https://www.jknarra.com/2021/02/25/hello-world.html",
+            "relUrl": "/2021/02/25/hello-world.html",
             "date": " • Feb 25, 2021"
         }
         
@@ -13,11 +13,11 @@
   
     
         ,"post1": {
-            "title": "Hello World",
-            "content": "Hello World! .",
-            "url": "https://www.jknarra.com/2021/02/25/hello-world.html",
-            "relUrl": "/2021/02/25/hello-world.html",
-            "date": " • Feb 25, 2021"
+            "title": "Title",
+            "content": ". Printing hello world in python . print(&quot;hello world!&quot;) . hello world! .",
+            "url": "https://www.jknarra.com/2021/02/24/hello.html",
+            "relUrl": "/2021/02/24/hello.html",
+            "date": " • Feb 24, 2021"
         }
         
     
