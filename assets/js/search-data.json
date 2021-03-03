@@ -2,7 +2,7 @@
   
     
         "post0": {
-            "title": "Hello World in **Python**",
+            "title": "Hello World in Python",
             "content": ". Python blog post . print(&quot;hello world!&quot;) . hello world! . print(&quot;hi&quot;) . hi .",
             "url": "https://www.jknarra.com/2021/02/25/hello.html",
             "relUrl": "/2021/02/25/hello.html",
